@@ -27,3 +27,10 @@ criaCartao(
     'Qual a finalidade da variável em javascript?',
     'Armazenar valores aleatórios a serem transcritos no html'
 )
+
+
+criaCartao(
+    'Programação',
+    'Qual a finalidade da variável em javascript?',
+    'Armazenar valores aleatórios a serem transcritos no html'
+)
